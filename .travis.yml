@@ -3,7 +3,8 @@ dist: xenial
 install:
   - echo -e "Start"
 script:
-  - mkdir public && cd public
+  - cp ./README.md ./public/README.md
+  - cd public
   - curl -O http://update.cz88.net/ip/copywrite.rar
   - curl -O http://update.cz88.net/ip/qqwry.rar
   - cd ..
