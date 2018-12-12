@@ -13,9 +13,7 @@ QQ IP 数据库（纯真版）镜像，数据库每 5 天更新一次，本镜�
 同时支持 HTTP & HTTPS
 
 - [copywrite.rar](https://qqwry.speedtests.ml/copywrite.rar)
-
-> https://qqwry.speedtests.ml/copywrite.rar
+`https://qqwry.speedtests.ml/copywrite.rar`
 
 - [qqwry.rar](https://qqwry.speedtests.ml/qqwry.rar)
-
-> https://qqwry.speedtests.ml/qqwry.rar
+`https://qqwry.speedtests.ml/qqwry.rar`
